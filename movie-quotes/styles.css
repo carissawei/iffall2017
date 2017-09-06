@@ -1,0 +1,17 @@
+html{
+		color: lightcyan;
+		font-family: sans-serif;
+		background-color: darkslategray;
+	}
+	h1 {color: hotpink}
+	b {color: plum}
+	em {
+		color: papayawhip;
+	}
+	#tone { color: hotpink; 
+	}
+	#movie-title {color: hotpink;}
+	#movie-title {font-size: 36px;}
+	.script {
+			font-family: verdana;
+	}
