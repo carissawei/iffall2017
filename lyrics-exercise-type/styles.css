@@ -1,0 +1,25 @@
+html,
+body {background-color: cadetblue; 
+	font-family: "raleway", "avenir", sans-serif;
+	width: 900px;
+	margin: auto;
+	text-align: center;
+}
+.header {background-color: lightblue;
+font-family: "palatino", georgia, serif;
+text-decoration: overline underline wavy;
+color: darkviolet;}
+.lyrics {background-color: lavender;
+font-family: garamond, georgia, serif;
+color: mediumvioletred;
+}
+.lyrics .coro {color: darkslateblue;
+font-weight: bold; 
+font-style: oblique;
+font-size: 16px;
+font-family: "raleway", "avenir", "helvetica", sans-serif;}
+.lyrics .bridge {color: teal;
+font-size: 24px;
+font-weight: bold;
+font-style: oblique;
+background-color: lightblue;}
