@@ -1,0 +1,89 @@
+body {font-family: "archivo narrow", sans-serif}
+
+#intro {
+	padding-top: 157px;
+	padding-bottom: 205px;
+    text-align: center;
+    color: teal;
+    background-image: url("http://www.babyanimalzoo.com/wp-content/uploads/2011/09/baby-harp-seal-photo.jpg")
+}
+h1 {font-size: 78px;
+    letter-spacing: 0.75px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+h3 {    margin-top: 2px;
+    font-size: 30px;
+}
+h2 {    text-align: center;
+    font-size: 40px;
+    margin-top: 12px;
+}
+#cow {float: right;
+width: 400px;
+height: 300px;}
+#sectiontwo {
+	font-size: 17px;
+	color: white;
+	padding-top: 4px;
+	padding-bottom: 90px;
+	background-color: teal;}
+.lorem {margin-left:240px;
+	margin-right:240px;
+}
+#sectionthree {padding-top: 30px;
+color: white;
+background-color: lightseagreen;
+padding-bottom:;}
+.tabimg {width: 200px;
+height: 150px;
+float:left;
+padding-left:100px;
+padding-right:10px;
+padding-bottom: 25px;
+padding-top: 0;
+}
+.tabimg2 {width: 200px;
+height: 150px;
+float:left;
+padding-left:75px;
+padding-right:10px;
+padding-bottom:25px;
+padding-top: 0;
+}
+h5 {    text-align: center;
+    font-size: 40px;
+    margin-top: 40px;
+    margin-bottom: 25px;
+    color: white;
+}
+.phototitle {text-align: left; color: white;}
+.phototitle2 {text-align: left; color: white; }
+h4 {text-align: center;
+    font-size: 40px; color: pink;
+margin-top: 42px;
+margin-bottom:35px;}
+.table {width: 1500; 
+padding-right:200px;
+padding-left: 200px;}
+#sectionfour {padding-right: 380px;
+    padding-left: 375px;
+background-color: darkcyan;
+height: 300px;
+padding-bottom: 72px;
+box-sizing: order-box;
+padding-top:50px;}
+#sectionfour p{font-size:26px; line-height: 30px;
+padding-bottom:15px;
+box-sizing: border-box;
+color: pink;}
+#sectionfive {padding-left:250px; 
+	font-size: 20px; color:white; 
+	background-color:mediumaquamarine;
+	padding-top: 10px;   
+}
+.icons {padding-left: 1000px;position: relative; top: -40px;}
+
+
+
+
