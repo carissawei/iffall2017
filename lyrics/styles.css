@@ -1,0 +1,25 @@
+html
+html {font-family: 'Droid Serif', serif; display: block; margin: auto;}
+body {background-image: url("https://wallpapercave.com/wp/FQGWpGX.jpg"); 
+margin-bottom: 150px;}
+.title {opacity: .85; background-color: midnightblue; text-align: center; color: white;
+	font-family: 'Droid Serif', serif; margin-left: 400px; margin-right: 400px;
+	margin-top: 40px; padding-top: 20px; padding-bottom: 20px; position: static;
+background-image: url("https://m.popkey.co/c93dca/VeRae.gif");}
+#lyrics {color: white; background-color: midnightblue;
+ margin-left: 400px; font-family: 'futura', helvetica, sans-serif;
+ margin-right: 400px; padding-left: 150px; padding-top: 30px;
+padding-bottom: 30px; margin-bottom: 40px;
+opacity: .85; z-index: 1; display: block; position:}
+.friends {width: 150px; height: 150px; margin-left: 600px;}
+.verse {opacity: 1; font-size: 12px; line-height: 160%;}
+.coro {opacity: 1; font-family:'droid serif', serif; font-size: 15px;
+line-height: 160%;}
+h1 {opacity: 1; font-size: 36px; position: static;}
+.simbanala {width: 300px; height: 275px; position: absolute; 
+padding-left:50px; margin-top: 300px; transform: rotate(-20pudeg);}
+.rafiki {width: 300px; height: 250px; position: absolute;
+padding-left: 1100px; margin-top: 0;}
+.heart {position: fixed; width: 25px; height: 20px;
+	padding-left: 520px; z-index: 2; margin-top: 42px;}
+h2 {margin-top: -10px; line-height: 150%; position: static;}
