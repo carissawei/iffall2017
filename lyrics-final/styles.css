@@ -1,0 +1,30 @@
+html {font-family: 'Droid Serif', serif; display: block; margin: auto;}
+body {background-image: url("lionking1.png"); background-size: 100%;
+margin-bottom: 165px;}
+.title {text-align: left; color: white;
+	font-family: 'Droid Serif', serif;
+	margin-top: 0px; padding-top: 50px;
+	 padding-bottom: 0px; position: static;
+	 padding-left:270px; padding-bottom: 20px;
+	}
+#lyrics {color: white; 
+ margin-left: 200px; font-family: 'futura', helvetica, sans-serif;
+ margin-right: 200px; padding-left: 400px; padding-top: 30px;
+padding-bottom: 30px; margin-bottom: 40px;
+ z-index: 3; display: block; position; 
+ opacity:.75;}
+.friends {width: 150px; height: 150px; margin-left: 650px;}
+.verse {opacity: 1; font-size: 15px; line-height: 160%;}
+.coro {opacity: 1; font-family:'droid serif', serif; font-size: 17px;
+line-height: 160%; color: mintcream;}
+h1 {opacity: 1; font-size: 22px; position: static;}
+.simbanala {width: 400px; height: 375px; position: fixed; 
+padding-left:0px; margin-top: 425px; 
+z-index: 1;}
+.rafiki {width: 300px; height: 250px; position: absolute;
+padding-left: 1050px;; margin-top: 25px; z-index: 3;}
+.arrow {position: fixed; width: 25px; height: 20px;
+	padding-left: 570px; z-index: 2; margin-top: 42px;}
+h2 {margin-top: -10px; line-height: 150%; position: static; font-size: 18px;}
+.verse:hover {color: lime;}
+hr {margin-left: -0px; margin-top: 50px;}
