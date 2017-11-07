@@ -1,0 +1,85 @@
+a {display: block; 
+	position: absolute; top: 0; 
+	right: 0; bottom: 0; left: 0;}
+.gos {position: relative;}
+.gosq {position: absolute;}
+
+.rey {position: relative;}
+.reyq {position: absolute;}
+
+.loc {position: relative;}
+.locq {position: absolute;}
+p {font-family: sans-serif; font-weight: bold;}
+@media screen and (min-width: 950px) {
+	.gosq {font-size: 35px; text-align: center;
+	padding-left: 400px; margin-top: 150px;
+	color: firebrick;}
+	.gos {justify-content: center}
+	.reyq {font-size: 35px;
+	padding-left: 550px; margin-top: 150px;
+	color: darkgreen;}
+}
+@media screen and (min-width: 1200px){
+.locq {font-size: 35px;
+	padding-left: 150px; margin-top: 50px;
+	color: indigo;}
+}
+@media screen and (max-width: 1200px) and (min-width: 950px){
+.locq {font-size: 30px;
+	padding-left: 125px; margin-top: 50px;
+	color: midnightblue;}
+	.loc {margin-left: -100px;}
+}
+@media screen and (max-width:950px) and (min-width:700px) {
+	.gosq {font-size: 30px; text-align: center;
+	padding-left: 300px; margin-top: 150px;
+	color: sienna; margin-right: 50px;}
+	.gos {margin-left: -50px;}
+	.reyq {font-size: 30px;
+	padding-left: 325px; margin-top: 150px;
+	color: darkolivegreen; margin-right: 50px;}
+	.rey {margin-left:-100px;}
+	.locq {font-size: 25px;
+	padding-left: 125px; margin-top: 50px;
+	color: blue;}
+	.loc {margin-left: -200px;}
+}
+@media screen and (max-width:700px) and (min-width:500px) {
+	.gosq {font-size: 24px; text-align: center;
+	padding-left: 200px; margin-top: 100px;
+	color: #c04000; margin-right: 50px;}
+	.gos {margin-left: -100px;}
+	.reyq {font-size: 20px;
+	padding-left: 225px; margin-top: 150px;
+	color: olivedrab; margin-right: 50px;}
+	.rey {margin-left: -100px;}
+	.locq {font-size: 22px;
+	padding-left: 75px; margin-top: 50px;
+	color: darkcyan; padding-right: 50px;}
+	.loc {margin-left: -250px;}
+}
+@media screen and (max-width:500px){
+	.gosq {font-size: 17px; text-align: center;
+	padding-left: 150px; margin-top: 50px;
+	color: red; margin-right: 50px;}
+	.gos {margin-left: -150px;}
+	.reyq {font-size: 16px;
+	padding-left: 150px; margin-top: 200px;
+	color: green; padding-right: 50px;}
+	.rey {margin-left: -200px;}
+	.locq {font-size: 20px;
+	padding-left: 50px; margin-top: 50px;
+	color: teal;}
+	.loc {margin-left: -350px;}
+}
+
+
+
+
+
+
+
+
+
+
+
