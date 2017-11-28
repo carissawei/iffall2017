@@ -1,0 +1,55 @@
+body {background-image: url("page.png"); position: fixed;}
+.logo {height: 165px; width: 400px;
+margin-top: 110px; position: fixed;}
+.nbc {color: maroon; 
+	font-family: "helvetica", arial, sans-serif;
+	margin-left: 50px; font-size: 24px;
+	margin-top: 250px; position: fixed;
+}
+.links {width: 230px; height: 230px; 
+	position: fixed;}
+.about {margin-left: 400px; margin-top: 50px;
+padding-bottom: 65px;}
+.cast {margin-left: 900px; margin-top: 50px;
+padding-bottom: 65px;}
+.awards {margin-left: 400px; margin-top: 350px;}
+.reviews {margin-left: 900px; margin-top: 350px;}
+a#about:hover {
+				filter: 
+				drop-shadow(16px 10px 10px rgba(0,0,0,0.9));
+			}
+a#cast:hover {
+				filter: 
+				drop-shadow(16px 16px 10px rgba(0,0,0,0.9));
+			}
+a#awards:hover {
+				filter: 
+				drop-shadow(16px 16px 10px rgba(0,0,0,0.9));
+			}
+a#reviews:hover {
+				filter: 
+				drop-shadow(16px 16px 10px rgba(0,0,0,0.9));
+			}
+.one {color: maroon; 
+	font-family: "helvetica", arial, sans-serif;
+	margin-left: 550px; font-size: 24px;
+	margin-top: -60px; position: fixed;}
+.two {color: maroon; 
+	font-family: "helvetica", arial, sans-serif;
+	margin-left: 1070px; font-size: 24px;
+	margin-top: -60px; position: fixed;}
+.three {color: maroon; 
+	font-family: "helvetica", arial, sans-serif;
+	margin-left: 550px; font-size: 24px;
+	margin-top: 15px; position: fixed;}
+.four {color: maroon; 
+	font-family: "helvetica", arial, sans-serif;
+	margin-left: 1070px; font-size: 24px;
+	margin-top: 15px; position: fixed;}
+
+
+
+
+
+
+

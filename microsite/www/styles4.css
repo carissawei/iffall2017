@@ -1,0 +1,32 @@
+body {background-image: url("page.png"); position: fixed;}
+.nav {color: maroon; 
+	font-family: "helvetica", arial, sans-serif;
+	 font-size: 20px; margin-left: 40px; margin-top: 15px;
+	 position: fixed; white-space: nowrap;
+}
+a#home:hover {color: white;
+			}
+a#about:hover {color: white;
+			}
+a#cast:hover {color: white;
+			}
+a#awards:hover {color: white;
+			}
+a:link {
+    color: maroon;
+    text-decoration: none;
+}
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+.logo {height: 100px; width: 250px;
+margin-left: 1150px;}
+p {font-family: "helvetica", arial, sans-serif;
+width: 400px; margin-left: 100px; margin-top: 35px;
+position: fixed; line-height: 20px;}
+h1 {font-family: "helvetica", arial, sans-serif;
+width: 400px; margin-left: 100px; margin-top: -50px;
+position: fixed;}
+.img {width: 400px; height: 400px; position: fixed;
+	margin-left:750px; margin-top: 50px
