@@ -1,0 +1,126 @@
+body {background-image: url("page.png"); position: fixed;}
+.logo {height: 165px; width: 400px;
+margin-top: 110px; position: fixed;}
+.nbc {color: maroon; 
+	font-family: "helvetica", arial, sans-serif;
+	margin-left: 50px; font-size: 24px;
+	margin-top: 250px; position: fixed;
+}
+.links {width: 230px; height: 230px; 
+	position: fixed;}
+.about {margin-left: 400px; margin-top: 50px;
+padding-bottom: 65px;}
+.cast {margin-left: 900px; margin-top: 50px;
+padding-bottom: 65px;}
+.awards {margin-left: 400px; margin-top: 350px;}
+.reviews {margin-left: 900px; margin-top: 350px;}
+a#about:hover {
+				filter: 
+				drop-shadow(16px 10px 10px rgba(0,0,0,0.9));
+			}
+a#cast:hover {
+				filter: 
+				drop-shadow(16px 16px 10px rgba(0,0,0,0.9));
+			}
+a#awards:hover {
+				filter: 
+				drop-shadow(16px 16px 10px rgba(0,0,0,0.9));
+			}
+a#reviews:hover {
+				filter: 
+				drop-shadow(16px 16px 10px rgba(0,0,0,0.9));
+			}
+.one {color: maroon; 
+	font-family: "helvetica", arial, sans-serif;
+	margin-left: 550px; font-size: 24px;
+	margin-top: -60px; position: fixed;}
+.two {color: maroon; 
+	font-family: "helvetica", arial, sans-serif;
+	margin-left: 1070px; font-size: 24px;
+	margin-top: -60px; position: fixed;}
+.three {color: maroon; 
+	font-family: "helvetica", arial, sans-serif;
+	margin-left: 550px; font-size: 24px;
+	margin-top: 15px; position: fixed;}
+.four {color: maroon; 
+	font-family: "helvetica", arial, sans-serif;
+	margin-left: 1070px; font-size: 24px;
+	margin-top: 15px; position: fixed;}
+
+@media screen and (max-width:1200px) and (min-width: 900px){
+	.about {width: 100%; height: 65%;}
+	.cast {width: 100%; height: 65%;
+			margin-left: 700px;}
+	.awards {width: 100%; height: 65%;}
+	.reviews {width: 100%; height: 65%;margin-left: 700px;}
+	.one {font-size: 18px; margin-left:490px;}
+	.two {font-size: 18px; margin-left:790px;}
+	.three {font-size: 18px; margin-left:490px;}
+	.four {font-size: 18px; margin-left:790px;}
+}
+
+@media screen and (max-width:900px){
+	.about {width: 100%; height: 65%;
+		margin-top:0px;}
+	.cast {width: 100%; height: 65%;
+			margin-left: 400px;
+			margin-top: 175px;}
+	.awards {width: 100%; height: 65%;
+		margin-top: 350px;}
+	.reviews {width: 100%; height: 65%;margin-left: 400px;
+		margin-top: 520px;}
+	.one {font-size: 18px; margin-left:650px; margin-top:-150px;}
+	.two {font-size: 18px; margin-left:650px; margin-top: -150px;}
+	.three {font-size: 18px; margin-left:650px; margin-top:-90px;}
+	.four {font-size: 18px; margin-left:650px; margin-top: -100px;}
+}
+@media screen and (max-width:700px){
+	.about {width: 100%; height: 65%;
+		margin-top:0px;
+	margin-left: 100px;}
+	.cast {width: 100%; height: 65%;
+			margin-left: 100px;
+			margin-top: 175px;}
+	.awards {width: 100%; height: 65%;
+		margin-top: 350px;
+	margin-left: 100px;}
+	.reviews {width: 100%; height: 65%;margin-left: 100px;
+		margin-top: 520px;}
+	.one {font-size: 18px; margin-left:650px; margin-top:-150px;}
+	.two {font-size: 18px; margin-left:650px; margin-top: -150px;}
+	.three {font-size: 18px; margin-left:650px; margin-top:-90px;}
+	.four {font-size: 18px; margin-left:650px; margin-top: -100px;}
+	.nbc {opacity: 0;}
+	.logo {width:100px;height:45px;}
+	.one {font-size: 18px; margin-left:350px; margin-top:-150px;}
+	.two {font-size: 18px; margin-left:350px; margin-top: -150px;}
+	.three {font-size: 18px; margin-left:350px; margin-top:-90px;}
+	.four {font-size: 18px; margin-left:350px; margin-top: -100px;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

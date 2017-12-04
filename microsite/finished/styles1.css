@@ -1,0 +1,39 @@
+body {background-image: url("page.png"); position: fixed;}
+.nav {color: maroon; 
+	font-family: "helvetica", arial, sans-serif;
+	 font-size: 20px; margin-left: 40px; margin-top: 15px;
+	 position: fixed; white-space: nowrap;
+}
+p {font-family: "helvetica", arial, sans-serif;}	
+	a#home:hover {color: white;
+			}
+	a#cast:hover {color: white;
+			}
+	a#awards:hover {color: white;
+			}
+	a#reviews:hover {color: white;
+			}
+	a:link {
+    color: maroon;
+    text-decoration: none;
+}
+	a:visited {
+    color: black;
+    text-decoration: none;
+}
+.logo {height: 100px; width: 250px;
+margin-left: 1150px;}
+p {font-family: "helvetica", arial, sans-serif;
+width: 410px; margin-left: 100px; margin-top: 70px;
+position: fixed; line-height: 20px;}
+h1 {font-family: "helvetica", arial, sans-serif;
+width: 400px; margin-left: 100px; margin-top: 100px;
+position: fixed; font-size: 15px;}
+.img {width: 700px; height: 400px; position: fixed;
+	margin-left:600px; margin-top: 50px}
+
+@media screen and (max-width: 1000px) {
+	p{margin-top: 300px; font-size: 12px;}
+	.img{width:400px; height:250px; margin-left:100px;
+		margin-top: -25px;}
+}

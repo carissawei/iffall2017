@@ -1,0 +1,86 @@
+body {background-image: url("page.png");
+overflow: scroll; background-attachment: scroll;}
+.nav {color: maroon; 
+	font-family: "helvetica", arial, sans-serif;
+	 font-size: 20px; margin-left: 40px; margin-top: 15px;
+	 position: fixed; white-space: nowrap;
+}
+a#home:hover {color: white;
+			}
+a#about:hover {color: white;
+			}
+a#awards:hover {color: white;
+			}
+a#reviews:hover {color: white;
+			}
+a:link {
+    color: maroon;
+    text-decoration: none;
+}
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+.logo {height: 100px; width: 250px;
+margin-left: 1150px;}
+
+@media screen and (min-width: 900px) {
+h1 {font-family: "helvetica", arial, sans-serif;
+text-align: center;
+font-size: 25px; margin-top: -50px; margin-bottom}
+.mandy {width: 150px; height: 150px; padding-right: 40px;
+}
+.ster {width: 150px; height: 150px; padding-right: 40px;
+}
+.issy {width: 150px; height: 150px; padding-right: 40px;
+}
+.just {width: 150px; height: 150px; padding-right: 40px;
+}
+.chr {width: 150px; height: 150px; padding-right: 40px;
+}
+.ron {width: 150px; height: 150px; padding-right: 40px;
+}
+.jon {width: 150px; height: 150px; padding-right: 40px;
+}
+.lex {width: 150px; height: 150px; padding-right: 40px;
+}
+
+.jack {margin-left: 250px; width: 150px; 
+	height: 150px; padding-right: 40px;}
+.sus {margin-left: 250px; width: 150px; 
+	height: 150px; padding-right: 40px;}
+h4 {font-family: "helvetica", arial, sans-serif;
+font-size: 12px; color: maroon; margin-left: -40px;}
+h5 {font-family: "helvetica", arial, sans-serif;
+font-size: 12px; font-style: oblique; margin-top: -10px;
+margin-left:-40px; margin-bottom: 50px;}
+.one {margin: auto;}
+.two {margin-left: 200px;}
+.beth {margin-left: 200px;}
+.cast2 {width:500px; position: fixed; opacity:0;}
+}
+@media screen and (max-width:1200px){.table{margin-left:-200px;}}
+
+@media screen and (max-width: 900px) {
+	h1{opacity:0;}
+img {opacity: 0; position: fixed;}
+h4{opacity: 0; position: fixed;}
+h5{opacity: 0; position: fixed;}
+.cast2 {opacity: 100; width: 650px; height: 1600px; position: relative;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
