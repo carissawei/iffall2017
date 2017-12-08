@@ -47,7 +47,7 @@ font-family: 'Avenir', Helvetica, Arial, sans-serif;}
     color: #282828;
 }
 .pri {margin-top:70%; font-size:20px; margin-right:10%;}
-.sec { font-size:15px; margin-right:10%;}
+.sec { font-size:15px; margin-right:10%; margin-bottom:50px}
 
 a:-webkit-any-link {
     color: -webkit-link;
